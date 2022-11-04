@@ -32,6 +32,7 @@ with a type `string`. Check the
 After you finish defining the `change` method, run the migrations by running:
 
 ```console
+
 $ bundle exec rake db:migrate
 ```
 
